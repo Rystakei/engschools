@@ -1,0 +1,9 @@
+{
+  "name": "engschools",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.2.0",
+    "bower-jvectormap": "~1.2.2",
+    "cheerio": "~0.19.0"
+  }
+}

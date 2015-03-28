@@ -1,0 +1,112 @@
+{
+  "metallurgical": [
+    {
+      "name": "Colorado School of Mines",
+      "location": "1500 Illinois St, Golden, CO 80401",
+      "latLng": [
+        39.7510216,
+        -105.2225769
+      ],
+      "type": "metallurgical"
+    },
+    {
+      "name": "Missouri University of Science and Technology",
+      "location": "1870 Miner Circle, Rolla, MO 65409",
+      "latLng": [
+        37.9542535,
+        -91.7740231
+      ],
+      "type": "metallurgical"
+    },
+    {
+      "name": "Montana Tech of the University of Montana",
+      "location": "1300 W Park St, Butte, MT 59701-8997",
+      "latLng": [
+        46.0123512,
+        -112.5607657
+      ],
+      "type": "metallurgical"
+    },
+    {
+      "name": "The University of Alabama",
+      "location": "739 University Blvd, Tuscaloosa, AL 35487-0166",
+      "latLng": [
+        33.2095116,
+        -87.54608449999999
+      ],
+      "type": "metallurgical"
+    },
+    {
+      "name": "The University of Texas at El Paso",
+      "location": "500 W. University Ave, El Paso, TX 79968-0691",
+      "latLng": [
+        31.7705809,
+        -106.5041495
+      ],
+      "type": "metallurgical"
+    },
+    {
+      "name": "South Dakota School of Mines and Technology",
+      "location": "501 E Saint Joseph St, Rapid City, SD 57701-3995",
+      "latLng": [
+        44.0736727,
+        -103.2062792
+      ],
+      "type": "metallurgical"
+    },
+    {
+      "name": "Columbia University in the City of New York",
+      "location": "West 116 St and Broadway, New York, NY 10027",
+      "latLng": [
+        40.8080586,
+        -73.96400840000001
+      ],
+      "type": "metallurgical"
+    },
+    {
+      "name": "University of Nevada-Reno",
+      "location": "Reno, NV 89557",
+      "latLng": [
+        39.5445866,
+        -119.8167317
+      ],
+      "type": "metallurgical"
+    },
+    {
+      "name": "University of Idaho",
+      "location": "875 Perimeter Drive, Moscow, ID 83844-2282",
+      "latLng": [
+        46.7273856,
+        -117.0126342
+      ],
+      "type": "metallurgical"
+    },
+    {
+      "name": "University of Cincinnati-Main Campus",
+      "location": "2624 Clifton Avenue, Cincinnati, OH 45221-0063",
+      "latLng": [
+        39.1341049,
+        -84.518981
+      ],
+      "type": "metallurgical"
+    },
+    {
+      "name": "LeTourneau University",
+      "location": "2100 S Mobberly Ave, Longview, TX 75607-7001",
+      "latLng": [
+        32.4675447,
+        -94.72916649999999
+      ],
+      "type": "metallurgical"
+    },
+    {
+      "name": "University of Utah",
+      "location": "201 Presidents Circle, Salt Lake City, UT 84112-9008",
+      "latLng": [
+        40.765023,
+        -111.848931
+      ],
+      "type": "metallurgical"
+    }
+  ]
+}
